@@ -6,7 +6,7 @@
   <div class="home">
     <van-notice-bar
       scrollable
-      text="关注微信公众号【前端有的玩】，我们一起玩前端"
+      text="关注微信公众号【前端有的玩】，我们一起玩前端22"
     />
     <van-list>
       <van-cell
